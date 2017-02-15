@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CarCollection xmlns="http://range-it.eu/xmlschemata/sceneanalyzeroutput" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Cars>
+        <Car id="1">
+            <StockNumber>1020</StockNumber>
+            <Make>Nissan</Make>
+            <Model>Sentra</Model>
+            <Size>
+                <width>100</width>
+                <height>200</height>
+            </Size>
+        </Car>
+        <Car id="2">
+            <StockNumber>1010</StockNumber>
+            <Make>Toyota</Make>
+            <Model>Corolla</Model>
+            <Size>
+                <width>100</width>
+                <height>200</height>
+            </Size>
+        </Car>
+        <Car id="3">
+            <StockNumber>1111</StockNumber>
+            <Make>Honda</Make>
+            <Model>Accord</Model>
+            <Size>
+                <width>100</width>
+                <height>200</height>
+            </Size>
+        </Car>
+    </Cars>
+</CarCollection>
